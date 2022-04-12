@@ -42,8 +42,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-lg-offset-0" align="left">
-                <h1 color="white">Sihao (William) Wu</h2>
-                <h1 color="white">吴思豪</h2>
+                <h1 color="white">Xifan (Shelvan) Li</h2>
+                <h1 color="white">李浠凡</h2>
             </div>
         </div>
     </div> <!-- /container -->
