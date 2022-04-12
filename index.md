@@ -1,3 +1,5 @@
+			HTML
+
 				<section class="panel spotlight (size modifier) (orientation modifier)">
 					<div class="content (span modifier)">
 						(content)
