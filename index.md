@@ -22,7 +22,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="images/favicon.png">
 
-    <title>Welcom to Sihao (William) Wu's Homepage</title>
+    <title>Welcom to Xifan (Shelvan) Li's Homepage</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -66,7 +66,7 @@
             <ul class="nav navbar-nav navbar-left">
                 <li class="active"><a href="#about">Home</a></li>
                 <li><a href="#publication">Publications</a></li>
-                <li><a href="#work">Experience</a></li>
+                <li><a href="#work">Prized or Honours</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>
@@ -78,63 +78,55 @@
              style="width: 240px; border:1px solid black"><br>
     </div>
     <div id="about" class="col-md-9" style="text-align:justify">
-        <p>I am a Ph.D. candidate in <a href="https://cgi.csc.liv.ac.uk/~acps/home/">Autonomous Cyber Physical Systems (ACPS) Lab</a> at <a href="https://www.liverpool.ac.uk/">University of Liverpool</a> with <a
-                href="https://cgi.csc.liv.ac.uk/~xiaowei/">Prof. Xiaowei Huang</a> and <a
-                href="https://www.xzhao.me/home">Dr. Xingyu Zhao</a>.
-            Prior to my Ph.D. program, I was working on vehicle trainsmission control
+        <p>I am a Ph.D. candidate in <a href="https://www.liverpool.ac.uk/">University of Liverpool</a> with <a
+                href="https://www.liverpool.ac.uk/engineering/staff/xue-zhang/">Dr. XueZhang</a>.
+            Prior to my Ph.D. program, I was working on civil engineering materials
             supervised by <a
-                href="http://shi.buaa.edu.cn/xuxiangyang/en/index.htm"> Prof. Xiangyang Xu</a> and <a
-                href="http://shi.buaa.edu.cn/dpgoal/en/index.htm"> Assoc. Prof. Peng Dong</a>
+                href="http://cea.wit.edu.cn/info/1141/3952.htm"> Prof. Xiaodi Hu</a> and <a
+                href="http://cea.wit.edu.cn/info/1141/3941.htm"> Assoc. Prof. Pan Pan</a>
                 at <a
-                href="http://www.buaa.edu.cn/"> Beihang University</a>. </p>
+                href="https://www.wit.edu.cn/"> Wuhan Institute of Technology</a>. </p>
             
             
-        <p>My research interests include <b>Generalization</b>, <b>Deep Reinforcement Learning</b> and <b>Sequential Decision Making</b>. I am eagerly 
-            in deploying <b>Robust DRL</b> algorithms to real robotics systems, like autonomous vehicles. 
+        <p>My research interests include <b>Neural Networks</b>, <b>Deep Learning</b>, <b>Pavement Engineering</b>, <b>Pavement Materials</b> and <b>Structural Health Monitoring</b>. I am eagerly 
+            in applying <b>Reccurent Neural Networks</b> to the feild of engineering, like history-dependent materials conctitutive models. 
         </p>
         <br />
         <br />
         <p><b>Contact: </b></p>
-        <p>Email: sihao.wu[at]liverpool.ac.uk</p>
-        <p>Office: Digital Innovation Facility, G018</p>
+        <p>Email: shelvan@liverpool.ac.uk</p>
+        <p>Office: Brodie Tower, Brownlow St., Liverpool, L69 3GL</p>
         <p><b>Profiles: </b></p>
-        <p> <a href="https://github.com/WilliamWu96">Github</a>, <a href="https://www.linkedin.com/in/sihao-wu/">Linkedin</a></p>
+        <p> <a href="https://github.com/shelvanlee">Github</a></p>
     </div>
 
 
     <div id="publication" class="col-md-10" style="text-align:justify">
         <h2>Publications</h2>
         
-        <h3>Publications on Conferences</h3>
+        <h3>Publications on Journals</h3>
         <div class="pub">
             <table width="100%" border="0">
                 <tr>
                     <td width="30%" valign="top">
-                        <a href="images/sapien.png" class="image"><img src="images/AERO.png" width="90%" alt=""></a>
+                        <a href="images/sapien.png" class="image"><img src="images/1asphalt.jpg" width="90%" alt=""></a>
                     </td>
                     <td width="80%">
-                        <div><b>Design and Simulation of an Autonomous Racecar: Perception, SLAM, Planning and Control</b></div>
+                        <div><b>1. Establishment of some parametric criteria for standardizing the stirring and blending conditions of using RPAF as an asphalt-binder modifier</b></div>
                         <div>
-                            <span> <b>Sihao Wu</b></span>,
-                            <span> Zhengwei Yang</span>,
-                            <span> Xiaopo Xie</span>,
-                            <span> Yilong Wang</span>,
-                            <span> Xinliang Wang</span>,
-                            <span> Qi Wang</span>,
-                            <span> Bofan Wu</span>,
-                            <span> Hongjun Zhang</span>,
-                            <span> Hanning Zhang</span>,
-                            <span> Haochun Ma</span>,
-                            <span> Xuanliang Zhang</span>,
-                            <span> Haiying Lin</span>
+                            <span> <b>Xifan Li</b></span>,
+                            <span> Xiaodi Hu</span>,
+                            <span> Pan Pan</span>,
+                            <span> Luis Fuentes</span>,
+                            <span> Lubinda F. Walubita</span>
                         </div>
                         <div>
-                            <span class="tag">IEEE International Conference on Autonomous Systems <b>(ICAS)</b>, 2021</a></span>
+                            <span class="tag">Construction & Building Materials <b>(CBM)</b>, 2021</a></span>
                             <div>
-                                <span class="tag"><a href="https://ieeexplore.ieee.org/document/9551125">Paper</a></span>
+                                <span class="tag"><a href="https://www.sciencedirect.com/science/article/pii/S0950061820339489">Paper</a></span>
                             </div>
                             <span class="des">
-                            The hardware and software concept of the 2020-rebuilt AERO Driverless Racing Team.
+                            Parametric conditions assessed included stirring temperature, rate, and time.
                             </span>
                         </div>
                     </td>
@@ -143,33 +135,110 @@
         </div>
         <br>
         
+    <div class="pub">
+            <table width="100%" border="0">
+                <tr>
+                    <td width="30%" valign="top">
+                        <a href="images/data.png" class="image"><img src="images/2mothflame.jpg" width="90%" alt=""></a>
+                    </td>
+                    <td width="80%">
+                        <div><b>2. Structural damage identification based on modal frequency strain energy assurance criterion and flexibility using enhanced Moth-Flame optimization</b></div>
+                        <div>
+                            <span>Minshui Huang</span>,
+                            <span><b>Xifan Li</b></span>,
+                            <span>Yongzhi Lei</span>,
+                            <span>Jianfeng Gu</span>
+                        </div>
+                        <div>
+                            <div class="tag">Structures, Volume 28, December 2020 <b> </b></a></div>
+                            <div>
+                                <span class="tag"><a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85091793840&origin=inward&txGid=95ff077c03f808e7a00e4fff114941a3&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1">Paper</a></span>
+                            </div>
+                            <span class="des">A damage identification framework based on modal frequency strain energy assurance criterion (MFSEAC), modal flexibility and enhanced moth-flame optimization is presented.</span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br>
+
+    <div class="pub">
+            <table width="100%" border="0">
+                <tr>
+                    <td width="30%" valign="top">
+                        <a href="images/data.png" class="image"><img src="images/3damage.png" width="90%" alt=""></a>
+                    </td>
+                    <td width="80%">
+                        <div><b>3. Damage Identification of Bridge Structures Considering Temperature Variations-Based SVM and MFO</b></div>
+                        <div>
+                            <span>Minshui Huang</span>,
+                            <span>Yongzhi Lei</span>,
+                            <span><b>Xifan Li</b></span>,
+                            <span>Jianfeng Gu</span>
+                        </div>
+                        <div>
+                            <div class="tag">Journal of Aerospace Engineering, Volume 34, Issue 2, 1 March 2021 <b> </b></a></div>
+                            <div>
+                                <span class="tag"><a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85096634303&origin=inward&txGid=56ef91b7c63d87f0400ae29bcd58e02e&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1">Paper</a></span>
+                            </div>
+                            <span class="des">A novel method based on the support vector machine (SVM) and moth-flame optimization (MFO) is proposed to identify the damage of structures considering temperature variations.</span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br>
+
+    <div class="pub">
+            <table width="100%" border="0">
+                <tr>
+                    <td width="30%" valign="top">
+                        <a href="images/data.png" class="image"><img src="images/L1 REGULARIZATION.png" width="90%" alt=""></a>
+                    </td>
+                    <td width="80%">
+                        <div><b>4. Structural Damage Identification Based on l1 Regularization and Bare Bones Particle Swarm Optimization with Double Jump Strategy</b></div>
+                        <div>
+                            <span>Minshui Huang</span>,
+                            <span>Yongzhi Lei</span>,
+                            <span><b>Xifan Li</b></span>
+                        </div>
+                        <div>
+                            <div class="tag">Mathematical Problems in Engineering, Volume 2019, Article ID 5954104 <b> </b></a></div>
+                            <div>
+                                <span class="tag"><a href="https://www.hindawi.com/journals/mpe/2019/5954104/">Paper</a></span>
+                            </div>
+                            <span class="des">This paper aims to propose a novel optimization algorithm which is named as bare bones particle swarm optimization with double jump (BBPSODJ) for finding a new solution to the SDI problem in SHM field.</span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br>
 
 
-        <h3>Publications on Journals</h3>
+
+        <h3>Publications on Conference</h3>
 
 
         <div class="pub">
             <table width="100%" border="0">
                 <tr>
                     <td width="30%" valign="top">
-                        <a href="images/data.png" class="image"><img src="images/CoordinatedControl.png" width="90%" alt=""></a>
+                        <a href="images/data.png" class="image"><img src="images/conference.jpg" width="90%" alt=""></a>
                     </td>
                     <td width="80%">
-                        <div><b>Coordinated clutch slip control for the engine start of vehicles with P2-hybrid automatic transmissions</b></div>
+                        <div><b>1. Estimation of RNN-based constitutive modelling of history-dependent materials</b></div>
                         <div>
-                            <span>Peng Dong</span>,
-                            <span><b>Sihao Wu</b></span>,
-                            <span>Wei Guo</span>,
-                            <span>Xiangyang Xu</span>,
-                            <span>Shuhan Wang</span>,
-                            <span>Yahui Liu</span>
+                            <span><b>Xifan Li</b></span>,
+                            <span>Xue Zhang</span>,
+                            <span>Youkou Dong</span>
                         </div>
                         <div>
-                            <div class="tag">Mechanism and Machine Theory, vol.153, p.103899, 2020 <b>(MMT)</b></a></div>
+                            <div class="tag">UK Association for Computational Mechanics, April 2022 <b> </b></a></div>
                             <div>
-                                <span class="tag"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0094114X20301208?via%3Dihub">Paper</a></span>
+                                <span class="tag"><a href="https://www.ukacm2022.ukacm.org/conference-programme">Paper</a></span>
                             </div>
-                            <span class="des">Coordinated clutch control strategy for P2-hybrid transmissions.</span>
+                            <span class="des">Estimation of RNNs on training surrogate models for classical history-dependent materials is carried out. Focuses are placed on their capability in describing the loading and unloading processes.</span>
                         </div>
                     </td>
                 </tr>
@@ -182,8 +251,15 @@
 
 
     <div id="work" class="col-md-10" style="text-align:justify">
-        <h2>Experience</h2>
-        <li><strong>Coming soon!
+        <h2>Prized or Honours</h2>
+        <li><strong>2021, China Scholarship Council (CSC) Scholarships for PhD Students
+        <li><strong>2021, China National Scholarship for Masters Students
+        <li><strong>2021, Outstanding Masters Graduates
+        <li><strong>2018-2021, First-class scholarship for three consecutive years for Master's students
+        <li><strong>2020, Advanced individual against Covid-19    
+
+
+
         <br>
         <br>
         <br>
