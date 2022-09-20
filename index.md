@@ -88,8 +88,8 @@
                 href="https://www.wit.edu.cn/"> Wuhan Institute of Technology</a>. </p>
             
             
-        <p>My research interests include <b>Neural Networks</b>, <b>Deep Learning</b>, <b>Pavement Engineering</b>, <b>Pavement Materials</b> and <b>Structural Health Monitoring</b>. I am eagerly 
-            in applying <b>Reccurent Neural Networks</b> to the feild of engineering, like history-dependent materials conctitutive models. 
+        <p>My research interests include <b>Topology Optimization</b>, <b>Neural Networks</b>, <b>Deep Learning</b>, <b>Pavement Engineering</b>, <b>Pavement Materials</b> and <b>Structural Health Monitoring</b>. I am eagerly 
+            in applying <b>Topology Optimization</b> to the field of engineering, like using density-based method to obtain a best structure. 
         </p>
         <br />
         <br />
